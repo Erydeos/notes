@@ -1,0 +1,305 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+filters:
+  and:
+    - file.inFolder("Resources")
+views:
+  - type: table
+    name: Resources
+    groupBy:
+      property: collection
+      direction: ASC
+    order:
+      - file.name
+      - author
+      - collection
+      - status
+      - level
+    sort:
+      - property: status
+        direction: ASC
+    columnSize:
+      note.author: 214
+      note.collection: 335
+      note.status: 91
+  - type: table
+    name: Books
+    filters:
+      and:
+        - collection.contains("books")
+        - file.inFolder("Resources/Books")
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - author
+      - status
+      - collection
+  - type: table
+    name: Books Japanese
+    filters:
+      and:
+        - collection.containsAll("books", "japanese")
+        - file.inFolder("Resources/Books")
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - author
+      - status
+      - collection
+    columnSize:
+      note.author: 169
+      note.status: 122
+      note.collection: 335
+  - type: table
+    name: Manga Japanese
+    filters:
+      and:
+        - collection.containsAll("japanese", "manga")
+        - file.inFolder("Resources/Books")
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - author
+      - status
+      - collection
+    columnSize:
+      note.author: 155
+      note.status: 72
+  - type: table
+    name: Books Art
+    filters:
+      and:
+        - collection.containsAll("books", "art")
+        - file.inFolder("Resources/Books")
+    groupBy:
+      property: Priority
+      direction: ASC
+    order:
+      - file.name
+      - status
+      - Priority
+      - collection
+      - author
+    sort:
+      - property: collection
+        direction: ASC
+    columnSize:
+      note.Priority: 101
+      note.author: 139
+  - type: table
+    name: Web Pages
+    filters:
+      and:
+        - or:
+            - collection.contains("web")
+            - file.tags.contains("clippings")
+        - file.inFolder("Resources/Web Pages")
+    groupBy:
+      property: collection
+      direction: ASC
+    order:
+      - file.name
+      - author
+      - status
+      - collection
+      - tags
+    sort:
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      note.author: 214
+      note.collection: 335
+      note.status: 91
+  - type: table
+    name: Digital Art web
+    filters:
+      and:
+        - and:
+            - collection.contains("art")
+            - collection.contains("web")
+        - file.inFolder("Resources/Web Pages")
+    groupBy:
+      property: collection
+      direction: ASC
+    order:
+      - file.name
+      - tags
+      - link
+      - collection
+    sort:
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      file.name: 238
+      note.link: 508
+      note.collection: 335
+  - type: table
+    name: Videos
+    filters:
+      and:
+        - collection.contains("video")
+        - file.inFolder("Resources/Videos")
+    groupBy:
+      property: collection
+      direction: ASC
+    order:
+      - file.name
+      - author
+      - status
+      - collection
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: status
+        direction: ASC
+    columnSize:
+      note.author: 214
+      note.collection: 335
+      note.status: 91
+  - type: table
+    name: Movies
+    filters:
+      and:
+        - collection.contains("movie")
+        - file.inFolder("Resources/Movies")
+    groupBy:
+      property: collection
+      direction: ASC
+    order:
+      - file.name
+      - author
+      - status
+      - collection
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: status
+        direction: ASC
+    columnSize:
+      note.author: 214
+      note.collection: 335
+      note.status: 91
+  - type: table
+    name: Series
+    filters:
+      and:
+        - collection.contains("serie")
+        - file.inFolder("Resources/Series")
+    groupBy:
+      property: collection
+      direction: ASC
+    order:
+      - file.name
+      - author
+      - status
+      - collection
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: status
+        direction: ASC
+    columnSize:
+      note.author: 214
+      note.collection: 335
+      note.status: 91
+  - type: table
+    name: Images
+    filters:
+      and:
+        - or:
+            - collection.contains("image")
+            - file.tags.contains("excalidraw")
+        - file.inFolder("Resources/Images")
+    groupBy:
+      property: collection
+      direction: ASC
+    order:
+      - file.name
+      - author
+      - collection
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      note.author: 214
+      note.collection: 335
+      note.status: 91
+  - type: table
+    name: Books Mandarin
+    filters:
+      and:
+        - collection.containsAll("books", "mandarin")
+        - file.inFolder("Resources/Books")
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - author
+      - status
+      - level
+      - collection
+    sort:
+      - property: status
+        direction: ASC
+    columnSize:
+      file.name: 147
+      note.author: 144
+      note.status: 98
+      note.level: 166
+      note.collection: 335
+  - type: table
+    name: Manhua Mandarin
+    filters:
+      and:
+        - collection.containsAll("manhua", "mandarin")
+        - file.inFolder("Resources/Books")
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - author
+      - status
+      - level
+      - collection
+    sort:
+      - property: status
+        direction: ASC
+    columnSize:
+      file.name: 210
+      note.author: 155
+      note.status: 115
+      note.collection: 184
+  - type: table
+    name: Series Japanese
+    filters:
+      and:
+        - collection.containsAll("serie", "japanese")
+        - file.inFolder("Resources/Series")
+        - status == false
+    groupBy:
+      property: collection
+      direction: ASC
+    order:
+      - file.name
+      - status
+      - platform
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: status
+        direction: ASC
+    columnSize:
+      file.name: 291
+      note.status: 91

@@ -1,0 +1,3 @@
+- Adapter: [Amazon](https://www.amazon.se/dp/B08LL73T31?tag=pricerunnersw-21&linkCode=ogi&th=1&psc=1) - 250 kr
+	- Arm: Elgiganten - 400 kr
+	- Total:                      700 kr

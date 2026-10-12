@@ -1,0 +1,31 @@
+%% Begin Waypoint %%
+- **Resources**
+	- [[Drawing accessories]]
+	- [[Drawing Books]]
+	- [[Drawing Courses]]
+- **Skills**
+	- [[Anime Ear]]
+	- [[Anime Eyes]]
+	- [[Anime Hair]]
+	- [[Color Theory]]
+	- [[Digital Art Software]]
+	- [[Drawing Skills]]
+	- [[Fabrics]]
+	- [[Feet]]
+	- [[Female Anatomy]]
+	- [[Female Proportions]]
+	- [[Figure drawing]]
+	- [[Fur]]
+	- [[Gesture Drawing]]
+	- [[Hands]]
+	- [[Head]]
+	- [[Male Anatomy]]
+	- [[Male Proportions]]
+	- [[Mouth]]
+	- [[Nose]]
+	- [[Perspective]]
+	- [[Skills.base|Skills]]
+- [[Drawing Path]]
+- [[Linux drawing apps]]
+
+%% End Waypoint %%

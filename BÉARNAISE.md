@@ -1,0 +1,1 @@
+60 grader: Försök hålla dig runt 60 grader när du vispar in det smälta smöret i såsen. Och låt den absolut inte bli varmare än 65–70 grader för då koagulerar äggulorna.

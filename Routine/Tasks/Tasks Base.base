@@ -1,0 +1,113 @@
+filters:
+  and:
+    - file.inFolder("Routine/Tasks")
+    - file.name != "Tasks"
+    - file.name != "Tasks Base.base"
+    - file.name != "To do"
+    - file.name != "Today's Tasks"
+views:
+  - type: table
+    name: Tasks
+    filters:
+      and:
+        - Done == false
+    groupBy:
+      property: Priority
+      direction: ASC
+    order:
+      - file.name
+      - Do-Date
+      - Priority
+      - Due-date
+      - Done
+    sort:
+      - property: Do-Date
+        direction: ASC
+      - property: Due-date
+        direction: ASC
+  - type: table
+    name: Need to do
+    filters:
+      and:
+        - Priority <= 1
+        - Done == false
+    groupBy:
+      property: Do-Date
+      direction: ASC
+    order:
+      - file.name
+      - Priority
+      - Do-Date
+      - Done
+      - Due-date
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Priority
+        direction: ASC
+  - type: table
+    name: Today
+    filters:
+      and:
+        - or:
+            - and:
+                - note["Do-Date"] <= today()
+                - Done == false
+            - note["Do-Date"].isEmpty()
+    groupBy:
+      property: Priority
+      direction: ASC
+    order:
+      - file.name
+      - Priority
+      - Due-date
+      - Done
+      - Do-Date
+    sort:
+      - property: Due-date
+        direction: ASC
+    columnSize:
+      file.name: 211
+      note.Priority: 111
+      note.Due-date: 167
+      note.Done: 73
+  - type: table
+    name: Completed
+    filters:
+      and:
+        - Done == true
+    groupBy:
+      property: Do-Date
+      direction: ASC
+    order:
+      - file.name
+      - Priority
+      - Due-date
+      - Done
+    sort:
+      - property: Priority
+        direction: ASC
+      - property: Due-date
+        direction: ASC
+  - type: table
+    name: Tomorrow
+    filters:
+      and:
+        - note["Do-Date"] == today() + "1 day"
+        - Done == false
+    groupBy:
+      property: Priority
+      direction: ASC
+    order:
+      - file.name
+      - Priority
+      - Due-date
+      - Done
+    sort:
+      - property: Due-date
+        direction: ASC
+    columnSize:
+      file.name: 253
+      note.Priority: 102
+      note.Due-date: 122
+      note.Done: 168

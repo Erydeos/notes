@@ -1,0 +1,6 @@
+- librenovo omni se inet
+	- Sihoo Doro C300 Pro V2
+	- Split keyboard
+		- [amazon](https://www.amazon.com/dp/B0DP48WWGB?campaignId=amzn1.campaign.SFBNR2KJWCWV&th=1&linkCode=sl2&tag=ryanloofy-20&linkId=96091310d2cc813b3d1d1054f50a8ab1&language=en_US&ref_=as_li_ss_tl)
+		- [ergodox](https://ergodox-ez.com/buy)
+		- [mistel](https://www.amazon.com/Mistel-Mechanical-Keyboard-Ergonomic-Programmable/dp/B082FVCNDM?crid=3QWJZ7OTKA9IO&keywords=split+keyboard&qid=1646563968&sprefix=split+keyboard,aps,63&sr=8-2-spons&psc=1&smid=A2GSUUGR2BLT9&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFET1FYRTRDODJYVUMmZW5jcnlwdGVkSWQ9QTA3OTI1ODFONVQ0RUdJM0VJVkEmZW5jcnlwdGVkQWRJZD1BMDQ5NTAzMjJKSjExWFpIVkM5Q0gmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&linkCode=sl1&tag=ajackster-20&linkId=1c5a747bcc2a5a377d04344ad14a5fb7&language=en_US&ref_=as_li_ss_tl)

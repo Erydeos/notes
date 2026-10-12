@@ -1,0 +1,3 @@
+- Book holder
+- Sketch books
+- Pencils

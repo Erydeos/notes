@@ -1,0 +1,6 @@
+- 4 bars 
+- Curved corners
+	- Each bar has subbars 
+	- Passive side bars
+		- Adapts width to active bar
+	- Active middle bar

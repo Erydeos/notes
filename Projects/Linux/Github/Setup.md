@@ -1,0 +1,5 @@
+- Create repository
+- Sync to vscodium
+- Sync to obsidian
+	- GitHub plugin
+- 

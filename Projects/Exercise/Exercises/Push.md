@@ -1,0 +1,3 @@
+- Pseudo planche push up
+- Pike push up
+- Knuckle push up

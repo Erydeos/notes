@@ -1,0 +1,3 @@
+- Pull ups
+- Chin ups
+- side pull ups

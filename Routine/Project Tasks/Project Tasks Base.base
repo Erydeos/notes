@@ -1,0 +1,63 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+filters:
+  and:
+    - file.inFolder("Routine/Project Tasks")
+    - file.name != "Project Tasks Base.base"
+    - file.name != "Project Tasks"
+views:
+  - type: table
+    name: Project Tasks
+    filters:
+      and:
+        - status == false
+    groupBy:
+      property: collection
+      direction: ASC
+    order:
+      - file.name
+      - Priority
+      - status
+      - collection
+    sort:
+      - property: file.name
+        direction: DESC
+  - type: table
+    name: Linux
+    filters:
+      and:
+        - collection.contains("linux")
+        - status == false
+    groupBy:
+      property: collection
+      direction: ASC
+    order:
+      - file.name
+      - Priority
+      - status
+      - collection
+    sort:
+      - property: Priority
+        direction: ASC
+    columnSize:
+      file.name: 171
+      note.Priority: 151
+  - type: table
+    name: Completed
+    filters:
+      and:
+        - status == true
+    groupBy:
+      property: collection
+      direction: ASC
+    order:
+      - file.name
+      - Priority
+      - status
+      - collection
+    sort:
+      - property: file.name
+        direction: DESC

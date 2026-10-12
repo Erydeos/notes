@@ -1,0 +1,13 @@
+- Uppeal low-desk floor to standing desk
+	- [converter](https://www.vari.com/eu/en/varidesk-converters/)
+		- [yoyo](https://yo-yodesk.co.uk/collections/desk-risers)
+	- Standing desk
+		- Ikea
+		- [standdesk](https://www.standesk.eu/product-page/corner-standing-desk-frame-tribes)
+	- [DIY](https://www.linak.se/)
+		- [linak](https://lineardirect.eu/en/blog/customisable-electric-height-adjustable-desk-frame-for-individual-workstations)
+		- [ergo](https://ergomaster.eu/)
+	- For now
+		- Normal standing desk with main
+		- + normal floor desk like above
+			- Use TV as monitor for floor desk

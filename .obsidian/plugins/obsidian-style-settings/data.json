@@ -1,0 +1,12 @@
+{
+  "cupertino@@adaptive-mode-off": true,
+  "cupertino@@colorful-frame": false,
+  "cupertino@@focus-view": false,
+  "baseline-style@@color-scheme-light": "default-light",
+  "baseline-style@@color-scheme-dark": "notion-dark",
+  "cupertino@@tab-floating": false,
+  "cupertino@@dynamic-type-off": false,
+  "cupertino@@font-ui-modifier": 0,
+  "notebook-navigator-style-settings@@nn-theme-navitem-border-width": 1,
+  "notebook-navigator-style-settings@@nn-theme-file-border-width": 0
+}

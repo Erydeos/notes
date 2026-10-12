@@ -1,0 +1,22 @@
+%% Begin Waypoint %%
+- [[Check MEX scholarship]]
+- [[Create Shopping base]]
+- [[FlerVar]]
+- [[follow up email]]
+- [[Int advisor email]]
+- [[Int application planning]]
+- [[Int duo grant email]]
+- [[Int email]]
+- [[KEX background]]
+- [[KEX data result text]]
+- [[KEX soluble protein fold]]
+- [[MEX scholarship planning]]
+- [[PDB Search summary]]
+- [[Set up daily tasks]]
+- [[Stat review]]
+- [[Study old tests]]
+- [[Tasks Base.base|Tasks Base]]
+- [[To do]]
+- [[Today's Tasks]]
+
+%% End Waypoint %%
