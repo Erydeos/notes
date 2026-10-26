@@ -1,5 +1,7 @@
 %% Begin Waypoint %%
 - **Coding**
+	- **Gamedev**
+		- [[DashRock]]
 	- [[Project Ideas]]
 	- [[Roadmap]]
 - **[[Digital Entertainment]]**
