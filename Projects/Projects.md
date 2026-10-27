@@ -2,6 +2,7 @@
 - **Coding**
 	- **Gamedev**
 		- [[DashRock]]
+		- [[Notes]]
 	- [[Project Ideas]]
 	- [[Roadmap]]
 - **[[Digital Entertainment]]**
