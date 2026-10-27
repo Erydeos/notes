@@ -3,6 +3,7 @@
 	- **Gamedev**
 		- [[DashRock]]
 		- [[Notes]]
+		- [[Planning]]
 	- [[Project Ideas]]
 	- [[Roadmap]]
 - **[[Digital Entertainment]]**

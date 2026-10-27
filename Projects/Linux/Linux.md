@@ -18,7 +18,7 @@
 	- [[TO DO]]
 - **Quickshell**
 	- [[Border]]
-	- [[Planning]]
+	- [[Projects/Linux/Quickshell/Planning]]
 	- [[Quickshell studies]]
 	- [[Quickshell to-do]]
 - [[Learning software]]
