@@ -2,6 +2,7 @@
 - **Coding**
 	- **Gamedev**
 		- [[DashRock]]
+		- [[Inspiration]]
 		- [[Notes]]
 		- [[Planning]]
 	- [[Project Ideas]]
