@@ -6,6 +6,7 @@
 # 1 Week game
 ## Rules
 - 7 - 14 hours total
+## Idea
 
 
 
