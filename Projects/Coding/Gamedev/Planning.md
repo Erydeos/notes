@@ -3,5 +3,11 @@
 - Dashrock
 - Godot 3D tutorial
 
-# Small Projects (1 - 2 weeks)
-- GameJams
+# 1 Week game
+## Rules
+- 7 - 14 hours total
+
+
+
+
+# GameJams
