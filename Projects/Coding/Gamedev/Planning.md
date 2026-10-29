@@ -8,7 +8,12 @@
 - 7 - 14 hours total
 ## Idea
 - [x] Pong clone (5 hours) ✅ 2026-10-29
-- [ ] Snake clone (14 hours)
+- [ ] Snake clone (15 hours/ 2 weeks)
+- [ ] ? (30 hours / 1 month)
+	- Nice Animations
+- [ ] ? (60 hours / 2 months)
+	- Good movement
+
 
 
 
