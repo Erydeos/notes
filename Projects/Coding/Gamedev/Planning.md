@@ -8,12 +8,12 @@
 - 7 - 14 hours total
 ## Idea
 - [x] Pong clone (5 hours) ✅ 2026-10-29
-- [ ] Snake clone (15 hours/ 2 weeks)
-- [ ] ? (30 hours / 1 month)
+- [ ] Snake clone (15 hours/ 2 weeks)  **- Itch**
+- [ ] ? (30 hours / 1 month)  **- Itch**
 	- Nice Animations
-- [ ] ? (60 hours / 2 months)
+- [ ] ? (60 hours / 2 months) **- Itch**
 	- Good movement/controls
-- [ ] ? (120 hours / 4 months)
+- [ ] ? (120 hours / 4 months) **- Itch**
 	- Dynamic Camera
 	- Good Level Design
 
@@ -24,4 +24,4 @@
 - Good UI/menu
 - Good Level Design
 
-# GameJams
+# Game Jams
