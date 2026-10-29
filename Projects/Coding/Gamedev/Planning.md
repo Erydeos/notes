@@ -12,9 +12,16 @@
 - [ ] ? (30 hours / 1 month)
 	- Nice Animations
 - [ ] ? (60 hours / 2 months)
-	- Good movement
+	- Good movement/controls
+- [ ] ? (120 hours / 4 months)
+	- Dynamic Camera
+	- Good Level Design
 
-
-
+## Systems
+- Nice Animations
+- Good movement/controls
+- Dynamic Camera
+- Good UI/menu
+- Good Level Design
 
 # GameJams
