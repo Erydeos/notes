@@ -1,7 +1,9 @@
 %% Begin Waypoint %%
 - **Coding**
 	- **Gamedev**
-		- [[DashRock]]
+		- **projects**
+			- [[DashRock]]
+			- [[Snake_escape]]
 		- [[Inspiration]]
 		- [[Notes]]
 		- [[Planning]]
