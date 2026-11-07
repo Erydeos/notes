@@ -1,5 +1,5 @@
 # To do
- - [ ] Start button 
+ - [x] Start button ✅ 2026-11-07
  - [ ] Escape win
  - [ ] self collision
  - [ ] Score and automatic food spawn
