@@ -1,12 +1,15 @@
 # Path
-- Basics: udemy course
+## Fundementals
+- Art School Course
+	- 2h a day x 7 = 14h per week 
+
+---
+## Problem
 - Problem solving - focused study: art school + youtube + artwod
-- Free drawing/ free practice
 
 ---
 
 - Deliberate practice - Problem solving - focused study: art school + youtube + artwod
-- Mannequin (marc youtube) gesture/pose drawing
 - Free drawing/ free practice
 
 ---
