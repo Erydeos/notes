@@ -1,23 +1,32 @@
 # Path
-## Fundementals
+## Fundamentals
 - Art School Course
 	- 2h a day x 7 = 14h per week 
 
 ---
-## Problem
-- Problem solving - focused study: art school + youtube + artwod
+## Problem Solving
+- Problem solving - focused study: art school + youtube
+
+---
+## Master Study
+
+- Analyze and copy a reference
+
+---
+## Free Drawing
+- Apply skill to draw freely
+- Set time limit and Goal
 
 ---
 
-- Deliberate practice - Problem solving - focused study: art school + youtube + artwod
-- Free drawing/ free practice
 
----
-
+# General
+- A least one post draw note
+- Pure-ref scene for each day
+- Combined Each week
 
 # Keep in mind
 - Apply learning
-- Follow skill tree
 - Think and see before drawing
 - Use reference - watch before draw
 
