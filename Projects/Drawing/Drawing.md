@@ -27,5 +27,6 @@
 	- [[Skills.base|Skills]]
 - [[Drawing Path]]
 - [[Linux drawing apps]]
+- [[Weekly Fundamentals]]
 
 %% End Waypoint %%
