@@ -2,5 +2,5 @@
 - [ ] Watch Nude Figure Drawing Lecture
 
 # Daily Task
-- [ ] Deliberate Observation
+- [x] Deliberate Observation ✅ 2026-11-15
 - [ ] Figure Drawing 1-3![[Figure Drawing.png|670]]
