@@ -20,9 +20,6 @@
 - **VFX Artist**
 	- **Phase 1: Foundations**
 		- [[week_1]]
-		- [[week_2]]
-		- [[week_3]]
-		- [[week_4]]
 		- [[week_5]]
 		- [[week_6]]
 		- [[week_7]]
