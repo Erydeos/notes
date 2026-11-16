@@ -15,8 +15,12 @@
 - [ ] Proportion and negative space 3h
 
 ### Appraoch
-- [ ] Mark-making and line confidence tutorial
-- [ ] 
+- [ ] Mark-making and line confidence 
+- [ ] Geometric Construction (inorganic and head-anatomy 1)
+- [ ] Observational drawing tutorial (see figure drawing exercise) and practice
+	- [ ] Real life
+	- [ ] Digital Reference
+- [ ] Proportion and negative space
 
 ## Blender and 3D fundamentals 16 h
 - [x] Interface and viewport navigation ✅ 2026-11-16
@@ -36,6 +40,10 @@
 	- [ ] Use NumPy arrays 
 	- [ ] Understand 2D and 3D vectors 
 	- [ ] Study dot and cross products 
+
+### Approach
+- [ ] Data structures  = Bootdev
+- [ ] Vectors = 
 
 ## Integrated exercises and mini-projects 16 h
 - [ ] Sketch everyday objects 4h 
