@@ -8,9 +8,9 @@
 | Integrated exercises and mini-projects | 4   |
 2h coding, 
 2h art, 
+2h blender,
 2h blender, 
 1 art, 1h coding
-2h blender, 
 2h project, 
 2h project
 
