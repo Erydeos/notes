@@ -595,7 +595,9 @@
     "Projects/Coding": "#06b6d47c",
     "Projects/VFX Artist": "#d946ef78"
   },
-  "folderSortOverrides": {},
+  "folderSortOverrides": {
+    "Projects/VFX Artist/Phase 1: Foundations": "title-asc"
+  },
   "folderTreeSortOverrides": {},
   "folderAppearances": {},
   "tagIcons": {},

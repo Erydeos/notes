@@ -61,7 +61,19 @@
 		- [[week_38]]
 		- [[week_39]]
 	- **Phase 4: Specialisation**
-		- [[week_{40-52}]]
+		- [[week_40]]
+		- [[week_41]]
+		- [[week_42]]
+		- [[week_43]]
+		- [[week_44]]
+		- [[week_45]]
+		- [[week_46]]
+		- [[week_47]]
+		- [[week_48]]
+		- [[week_49]]
+		- [[week_50]]
+		- [[week_51]]
+		- [[week_52]]
 	- [[Plan]]
 
 %% End Waypoint %%
