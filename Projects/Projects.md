@@ -20,15 +20,8 @@
 - **VFX Artist**
 	- **Phase 1: Foundations**
 		- [[week_1-4]]
-		- [[week_5]]
-		- [[week_6]]
-		- [[week_7]]
-		- [[week_8]]
-		- [[week_9]]
-		- [[week_10]]
-		- [[week_11]]
-		- [[week_12]]
-		- [[week_13]]
+		- [[week_4-8]]
+		- [[week_9-13]]
 	- **Phase 2: Procedural Art**
 		- [[week_14]]
 		- [[week_15]]
