@@ -72,6 +72,7 @@
 		- [[week_51]]
 		- [[week_52]]
 	- **Resources**
+		- [[Tactics]]
 		- [[Youtube blender]]
 	- [[Plan]]
 
