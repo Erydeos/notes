@@ -18,5 +18,6 @@
 - **[[Mandarin]]**
 - **[[Money]]**
 - **VFX Artist**
+	- [[Plan]]
 
 %% End Waypoint %%
