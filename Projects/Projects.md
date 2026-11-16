@@ -71,6 +71,8 @@
 		- [[week_50]]
 		- [[week_51]]
 		- [[week_52]]
+	- **Resources**
+		- [[Youtube blender]]
 	- [[Plan]]
 
 %% End Waypoint %%
