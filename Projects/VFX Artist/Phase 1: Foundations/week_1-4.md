@@ -6,14 +6,6 @@
 | Blender and 3D fundamentals            | 4   |
 | Programming and mathematics            | 3   |
 | Integrated exercises and mini-projects | 4   |
-2h coding, 
-2h art, 
-2h blender,
-2h blender, 
-1 art, 1h coding
-
-2h project, 
-2h project
 
 
 ## Traditional drawing and art 12 h
