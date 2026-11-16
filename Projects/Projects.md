@@ -17,5 +17,6 @@
 - **[[Linux]]**
 - **[[Mandarin]]**
 - **[[Money]]**
+- **VFX Artist**
 
 %% End Waypoint %%
