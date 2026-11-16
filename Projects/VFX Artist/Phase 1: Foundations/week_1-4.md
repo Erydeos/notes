@@ -14,12 +14,20 @@
 - [ ] Observational drawing 3h
 - [ ] Proportion and negative space 3h
 
+### Appraoch
+- [ ] Mark-making and line confidence tutorial
+- [ ] 
+
 ## Blender and 3D fundamentals 16 h
 - [x] Interface and viewport navigation ✅ 2026-11-16
 - [ ] Object manipulation and transforms 4h
 - [ ] Meshes, vertices, edges and faces 4h
 - [ ] Extrusion, bevels and subdivision 4h
 - [ ] Basic topology 4h
+### Approach
+- [ ] Work through each of the modelling tutorials
+- [ ] Learn specifically about topology
+
 
 ## Programming and mathematics 12 h
 - [x] Refresh Python functions and classes ✅ 2026-11-16
