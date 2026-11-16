@@ -6,6 +6,14 @@
 | Blender and 3D fundamentals            | 4   |
 | Programming and mathematics            | 3   |
 | Integrated exercises and mini-projects | 4   |
+2h coding, 
+2h art, 
+2h blender, 
+1 art, 1h coding
+2h blender, 
+2h project, 
+2h project
+
 
 ## Traditional drawing and art 12 h
 - [ ] Line confidence and mark-making 3h
@@ -43,10 +51,10 @@
 
 ### Approach
 - [ ] Data structures  = Bootdev
-- [ ] Vectors = 
+- [ ] Vectors = self implementation of vector math
 
 ## Integrated exercises and mini-projects 16 h
-- [ ] Sketch everyday objects 4h 
-- [ ] Break each object into simple forms 4h
-- [ ] Model a small collection in Blender 4h
-- [ ] Save the scene and a simple render 4h
+- [ ] Sketch everyday objects 4 x 1h 
+- [ ] Break each object into simple forms 4 x 1h
+- [ ] Model a small collection in Blender 4 x 1h
+- [ ] Save the scene and a simple render 4 x 1h
