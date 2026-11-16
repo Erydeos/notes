@@ -19,7 +19,7 @@
 - **[[Money]]**
 - **VFX Artist**
 	- **Phase 1: Foundations**
-		- [[week_1]]
+		- [[week_1-4]]
 		- [[week_5]]
 		- [[week_6]]
 		- [[week_7]]
